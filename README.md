@@ -1,1 +1,1 @@
-uz to k*rva funguje konecne
+uz to funguje konecne
