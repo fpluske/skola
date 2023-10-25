@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\intreval.dir/objects.a
+C:\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\intreval.dir/objects.a @CMakeFiles\intreval.dir\objects1.rsp
+C:\mingw-w64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\intreval.dir/objects.a -Wl,--no-whole-archive -o intreval.exe -Wl,--out-implib,libintreval.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\intreval.dir\linklibs.rsp
