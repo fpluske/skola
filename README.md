@@ -1,1 +1,1 @@
-uz to funguje konecne
+Zdravim, toto sú moje súbory do školy. xd
