@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <studio.h>
 
 int main() {
     int number = 0; //vytvori promennou s nazvem "number"
