@@ -6,4 +6,5 @@ int main() {
     for (int i = 0; i < POCETPRVKU; ++i) {
         printf("%4d %c",i,i);
     }
+    return 0;
 }
