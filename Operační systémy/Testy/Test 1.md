@@ -20,6 +20,7 @@ tmpfs           198M  4.0K  198M   1% /run/user/1000
 
 ##### 4. ssh "uzivatelskeJmeno"@"ipAdresaServeru"
 ##### 5. student@server:~$ ps aux
+```
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root           1  0.1  0.5 100360 11192 ?        Ss   07:16   0:00 /sbin/init
 root           2  0.0  0.0      0     0 ?        S    07:16   0:00 [kthreadd]
@@ -113,7 +114,7 @@ student      705  0.0  0.3  17216  7912 ?        S    07:17   0:00 sshd: student
 student      706  0.0  0.2   5044  4076 pts/0    Ss   07:17   0:00 -bash
 root         791  0.0  0.0      0     0 ?        I    07:25   0:00 [kworker/u2:0-events_unbound]
 student      792  0.0  0.1   7480  3164 pts/0    R+   07:26   0:00 ps aux
-
+```
 ##### 6. student@server:ls /boot
 System.map-5.15.0-67-generic  config-5.15.0-67-generic  grub        initrd.img-5.15.0-67-generic  initrd.img.old  vmlinuz-5.15.0-67-generic  vmlinuz.old
 System.map-5.15.0-69-generic  config-5.15.0-69-generic  initrd.img  initrd.img-5.15.0-69-generic  vmlinuz         vmlinuz-5.15.0-69-generic
