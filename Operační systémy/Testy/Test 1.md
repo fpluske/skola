@@ -11,13 +11,14 @@
 ##### 1. Hotovo
 ##### 2. ssh-copy-id "uzivatelskeJmeno"@"ipAdresaServeru"
 ##### 3. student@server:~$ df -h
+```
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs           198M  724K  197M   1% /run
 /dev/sda2       9.8G  5.2G  4.2G  56% /
 tmpfs           989M     0  989M   0% /dev/shm
 tmpfs           5.0M     0  5.0M   0% /run/lock
 tmpfs           198M  4.0K  198M   1% /run/user/1000
-
+```
 ##### 4. ssh "uzivatelskeJmeno"@"ipAdresaServeru"
 ##### 5. student@server:~$ ps aux
 ```
@@ -116,8 +117,11 @@ root         791  0.0  0.0      0     0 ?        I    07:25   0:00 [kworker/u2:0
 student      792  0.0  0.1   7480  3164 pts/0    R+   07:26   0:00 ps aux
 ```
 ##### 6. student@server:ls /boot
+```
 System.map-5.15.0-67-generic  config-5.15.0-67-generic  grub        initrd.img-5.15.0-67-generic  initrd.img.old  vmlinuz-5.15.0-67-generic  vmlinuz.old
 System.map-5.15.0-69-generic  config-5.15.0-69-generic  initrd.img  initrd.img-5.15.0-69-generic  vmlinuz         vmlinuz-5.15.0-69-generic
-
+```
 ##### 7. student@student:~$ scp ~/.ssh/id_rsa student@192.168.10.58:/home/student
+```
 id_rsa
+```
