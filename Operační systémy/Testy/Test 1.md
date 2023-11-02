@@ -8,7 +8,7 @@
 7. Zkopírovat soubor ~/id_rsa -> serveru /home/student
 
 # ŘEŠENÍ:
-## 1. Hotovo
+##### 1. Hotovo
 ##### 2. ssh-copy-id "uzivatelskeJmeno"@"ipAdresaServeru"
 ##### 3. student@server:~$ df -h
 Filesystem      Size  Used Avail Use% Mounted on
