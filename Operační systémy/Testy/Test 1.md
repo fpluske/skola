@@ -19,7 +19,7 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 tmpfs           198M  4.0K  198M   1% /run/user/1000
 
 4. ssh "uzivatelskeJmeno"@"ipAdresaServeru"
-5. student@server:~$ ps aux
+# 5. student@server:~$ ps aux
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root           1  0.1  0.5 100360 11192 ?        Ss   07:16   0:00 /sbin/init
 root           2  0.0  0.0      0     0 ?        S    07:16   0:00 [kthreadd]
