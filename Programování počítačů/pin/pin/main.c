@@ -25,6 +25,14 @@ int main() {
         else {
             printf("Zadal jsi nespravny PIN.\n");
         }
+        if (pin != PIN) {
+            if (pokusy > 0) {
+                printf("Zbyva%s jeste %d %s.\n", pokusy == 1 ? "":"ji", pokusy, pokusy == 1 ? "pokus":"pokusy");
+            } 
+            else {
+                printf("Uz nemate zadne pokusy.\n");
+            }
+        }
     } while (pokusy > 0 && pin != PIN);
     return 0;
 }
