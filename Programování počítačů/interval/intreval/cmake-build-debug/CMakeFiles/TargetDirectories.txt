@@ -1,3 +1,0 @@
-C:/studenti/IT1/P2/Franta Pluske/interval/intreval/cmake-build-debug/CMakeFiles/intreval.dir
-C:/studenti/IT1/P2/Franta Pluske/interval/intreval/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/studenti/IT1/P2/Franta Pluske/interval/intreval/cmake-build-debug/CMakeFiles/rebuild_cache.dir
