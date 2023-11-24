@@ -1,0 +1,18 @@
+REM Prejmenujte tento soubor na it1.bat a doplnte o potrebne prikazy
+REM 1. Vypnuti vypisu informaci o provadenych prikazech, zmena barvy (bile pozadi, cerny text)
+REM 2. Vypsat na obrazovku "Zalohovaci davkovy soubor" 
+REM 3. Vypsat do titulku "DAVKOVY SOUBOR: " a nazev davky
+REM 4. Pozastavit beh davkoveho souboru az do stisku libovolne klavesy
+REM 5. Zajistit presun do korenoveho adresare disku F:
+REM 6. Pokud nebyl zadan 1.parametr - skok na navesti ERROR
+REM 7. Vytvorit slozku ZALOHA a podslozku zadanou v 1. parametru
+REM 8. Zkopirovat soubory *.EXE ze slozky C:\XAMPP\APACHE\BIN do slozky zadane 1. parametrem
+REM 10. Zmenit atribut vsech souboru ve slozce tak, aby byly skryte a pouze pro cteni
+REM 11. Vypsat obsah slozky zadane 1. parametrem do souboru ZALOHA.TXT, ktery bude ulozen do slozky ZALOHA
+REM 12. Vypsat na konec souboru ZALOHA.TXT informace o nastaveni sitovych zarizeni pocitace (ipconfig)
+REM 13. Zobrazit soubor ZALOHA.TXT v Poznamkovem bloku
+REM 14. Provede skok na navesti END
+REM 15. Vytvorte navesti ERROR a vypiste uzivateli hlaseni "Nebyl zadan 1. parametr!"
+REM 16. Vytvorte navesti END  
+REM 17. Vypsat hlaseni "THE END" 
+REM 18. Vymazat slozku ZALOHA pokud existuje (vcetne podslozek)

@@ -1,0 +1,15 @@
+1. Zjistìte detailní informace o staženém videoklipu:
+    a) Jména interpretù i název hudební skupiny.
+      - Hudební skupina: 2CELLOS (Aplikace Shazam)
+      - Název interpretù: Stjepan Hauser, Luka Šuliæ (Vyhledavaè Google)
+    b) Název skladby.
+      - Game of Thrones Medley (Aplikace Shazam)
+    c) S jakým seriálem je tato skladba spojena? Kdo je autorem scénáøe?
+      - Skladba je spojena se seriálem Hra o Trùny (Podle názvu + moje hlava)
+    d) V kterém mìstì a státì se tento klip natáèel? Tušíte proè?
+      - V pøístavu Nautia ve státì Nauru (v Oceánii) (Vyhledavaè Google, Google Lens)
+    
+2. Použijte pøehrávaè VLC a editor Audacity, abyste:
+    a) Zjistili základní údaje o daném videu: rozlišení, délku, použité kodeky (zvuk i obraz)
+    b) Oddìlili z videa zvukovou stopu ve formátu MP3.
+    c) Vytvoøili zkrácenou zvukovou ukázku dlouhou pøesnì 30 sekund s postupným nábìhem zvuku na zaèátku (efekt FadeIn) a zeslabením zvuku na konci (efekt FadeOut).  

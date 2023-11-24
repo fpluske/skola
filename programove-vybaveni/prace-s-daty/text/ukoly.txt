@@ -1,0 +1,9 @@
+1. Ve sloce se nacházejí dva podobné soubory student1.txt a student2.txt. Z jednoho souboru zmizeli dva studenti. Zjistìte, o kterı soubor jde a vypište (zkopírujte) všechny údaje tìch dvou nešastníkù.
+2. Pouijte soubor student1.txt a zjistìte:
+    a) jeho pøesnou velikost v bajtech
+    b) kolik bajtù zabírá na disku
+    c) kolik obsahuje znakù
+    d) v jakém kódování byl uloen
+    e) které køestní jméno je v souboru pouito nejèastìji
+3. Získejte ze souboru student1.txt seznam ákù pouze vaší tøídy (IT1) a ulote jej do souboru IT1.txt.
+4. Upravte soubor IT1.txt tak, aby obsahoval pouze PRIJMENI a JMENA ákù bez èeské diakritiky a zapsaná velkımi písmeny.   

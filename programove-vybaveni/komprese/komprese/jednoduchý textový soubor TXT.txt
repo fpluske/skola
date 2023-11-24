@@ -1,0 +1,28 @@
+Generativní AI pomáhá nejen široké veřejnosti a specialistům, ale i velkým firmám. Pro správné využití nástrojů umělé inteligence je ale potřeba znát nejen její přednosti, ale i mantinely. Měly by se firmy do implementace umělé inteligence pouštět už nyní, nebo by si měly počkat, až budou nástroje dostatečně pokročilé, v horizontu dvou až pěti let?
+
+ChatGPT, Dall-E, Bard, Deeply, Midjourney a další jsou jen některými příklady nástrojů, kterým se souhrnně říká generativní umělá inteligence. Ta v posledních měsících zažívá obrovský boom, za což vděčí především společnosti OpenAI a jejich ChatGPT. Co přesně se ale pod pojmem generativní AI skrývá?
+
+V zásadě jde o nástroj, který díky pokročilému učení dokáže z nejčastěji textového zadání vytvářet různorodý obsah. Může jít o další text, vizuál, hlas či video – uplatnění generativní umělé inteligence je skutečně široké, a to jak z pozice běžného uživatele, tak (ještě mnohem zásadněji) z pozice firem. Podle Jana Kameníčka, generálního ředitele HPE je však důležité znát mantinely, které nástroje AI mají, a zároveň jim řádně připravit půdu. Umělá inteligence je totiž na data velmi „háklivá“ a špatný input může mít nedozírné a často až katastrofické následky.
+
+ChatGPT je druhou nejrychleji rostoucí aplikací
+
+Ačkoliv historie umělé inteligence sahá až do padesátých let minulého století a navzdory celé řadě literárních či filmových děl z oblasti sci-fi, které se problematice AI (většinou dystopicky) věnují, si velká část veřejnosti nástroje umělé inteligence poprvé osahala až v posledních měsících, maximálně letech.
+
+S příchodem ChatGPT se zájem o AI zvedl enormně, o čemž svědčí i množství jeho uživatelů. Nástroji společnosti OpenAI se podařilo získat sto milionů uživatelů za pouhé dva měsíce, což byl v té době historický rekord, který tehdy držel TikTok. Tomu se ale stejná uživatelská základna podařila získat až za devět měsíců. V současnosti je držitelem rekordu sociální síť Threads, které ale zásadním způsobem pomohlo přihlašování Instagramovým účtem.
+
+Inteligence podobná té lidské
+
+S takovým růstem uživatelů se ale pojí několik potenciálních problémů, a jedním z těch hlavních je obava, že lidé nebudou AI používat správně. Jak ostatně tvrdí Jan Kameníček, AI může být až příliš „lidským nástrojem“ – dělá chyby, lže s tváří pokerového hráče a jeho úsudky mohou být často zaujaté. Pokud budeme výstupům generativní AI slepě věřit, můžeme se dostávat do problémů.
+
+Řada firem tak v současnosti stojí před otázkou, jestli se do AI pustit hned, nebo ještě vyčkat, než se nástroje zdokonalí a lidé se je naučí lépe ovládat. Podle Gartneru ostatně generativní umělá inteligence dosáhne vrcholu své produktivity v horizontu dvou až pěti let. Je tedy vůbec vhodné pouštět se do stále se rozvíjejícího nástroje už v současnosti? „To samozřejmě závisí na individuální inovační strategii, nicméně firmy, které chtějí zvyšovat svou konkurenceschopnost a inovovat, by rozhodně měly začít hned,“ vysvětluje Kameníček v rozhovoru pro ITBIZ a dodává: „technologie sice nemusí být ještě ve všech ohledech vyzrálá, ale to mnohdy nejsou ani ostatní procesy uvnitř společnosti.“
+
+Firmy nesmí podcenit přípravu
+
+Stejně jako na ostatní procesy se i zavedení AI musí připravit „úrodná půda“, nejinak tomu je i u generativní AI. Právě přípravná fáze je ale extrémně složitá. Je k tomu nutné vyškolit zaměstnance na rozsáhlou sadu různých dovedností, musí se k tomu připravit firemní infrastruktura, technologie a důležité je pozměnit i řadu procesů. V neposlední řadě je potřebný nepřetržitý vývoj, aby firma mohla AI nástroje využívat efektivně a udržitelně. Pro správnou implementaci musí firmy od začátku brát v potaz následujících pět oblastí:
+
+Risk management: pravdivost a ověřitelnost dat vs. digitální suverenita
+Úroveň maturity dat: vyspělost strategických, organizačních a technických schopností, které umožní vytvářet hodnotu z dat
+Architektura a správa dat: snadnost dostupnosti dat v dostatečném množství a kvalitě; konzistentní celopodniková strategie
+Architektura hybridních platforem: snížení latence a posílení datové suverenity; agregace bez centralizace
+Integrace procesů: řízení životního cyklu aplikací a dat; zabezpečení; kontrolní procesy; řízení rizik
+Generativní AI je úžasným nástrojem, který toho dokáže opravdu hodně. „Říká se, že generativní AI je stejné, jako když máte na dosah tisíce chytrých stážistů,“ glosuje Kameníček, ale zároveň dodává, že kýžené zvýšení produktivity firem je možné jen v případě, že budou firmy k nástrojům umělé inteligence přistupovat zodpovědně a s realistickým očekáváním. Ona „světlá budoucnost“ je podle generálního ředitele Hewlett Packard Enterprise podmíněná strategickými investicemi do dalšího seberozvoje firmy. Nejde navíc jen o investice do technologií, ale i do schopností zaměstnanců s AI efektivně pracovat.

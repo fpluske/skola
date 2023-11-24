@@ -1,0 +1,56 @@
+
+
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn?
+      - pøiøazený atribut je RHA (Zjištìno ve vlastnostech souboru (Alt+Enter))
+      - byl vytvoøen: 21.11.2023 (Zjištìno ve vlastnostech souboru (Alt+Enter))
+      - byl zmìnìn: 19.10.2023 (Zjištìno ve vlastnostech souboru (Alt+Enter))
+    b) V jakém znakovém kódování je uložen?
+      - text je vložen v Unicode UTF-8 bez BOM (Zjištìno v programu PSPad)
+    c) V jakém jazyce je napsán jeho obsah?
+      - v Japonštinì (Pøekladaè Google (Automatické rozpoznání))
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)?
+      - text pojednává o informacích ohlednì Prahy, z Wikipedie https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8F
+    
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)?
+      - Šíøka: 1366 pixelù (Zjištìno ve vlastnostech souboru (Alt+Enter))
+      - Výška: 768 pixelù (Zjištìno ve vlastnostech souboru (Alt+Enter))
+    b) Jak se jmenuje mìsto na obrázku?
+      - Nairobi (Google Lens)
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)?
+      - Kenya (Vyhledávaè Google)
+      - Východní afrika (Vyhledávaè Google)
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce?
+      - Souøadnice: 01°18'00”S 36°48'47”E? / ?1.30000°S 36.81306°E? (Vyhledavaè Google)
+    e) Co se v této budovì nachází?
+      - Vìtrná turbína (Vyhledavaè Google)
+    
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku?
+      - Bitová hloubka: 24
+      - Šíøka: 900 pixelù
+      - Výška: 900 pixelù
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)? (Vyhledávaè Google, Google Lens)
+      - Jméno: Katalin (maïarsky Veresné Novák Katalin Éva) 
+      - Pøíjmení: Novák
+      - Národnost: Maïarka
+      - Povolání: Prezidentka Maïarska
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích.
+      - https://twitter.com/katalinnovak_hu?lang=cs (Vyhledavaè Google)
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno.
+      - https://hlidacipes.org/orbanova-verna-v-praze-madarska-prezidentka-poobedva-se-zemanem-a-poveceri-s-babisem/ (Vyhledavaè Google)
+    
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku?
+       - bitová hloubka je 8
+       - šíøka 580
+       - výška 387
+    b) Vlajka kterého státu je na obrázku?
+       - tato vlajka patøí státu Bhútánu
+    c) Najdìte bližší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto
+       - rozloha státu je 38 394 km2, poèet obyvatelu je 777 486 (2021), Hlavní mìsto je Thimphu
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.
+       -  žlutá barva - 255,213,32 - FF,D5,20
+       -  orandžová barva - 255,78,18 - FF,4E,12

@@ -1,0 +1,6 @@
+Zpracujte dokumenty ve formátu PDF:
+1. Z obou dokumentù uložte vždy jen druhou a tøetí stranu do samostatných souborù - pvy1.pdf a pvy2.pdf.
+2. Spojte oba novì vytvoøené dokumenty do jednoho - pvy.pdf
+3. S využitím automatického pøekladu nechejte pøeložit do nìmèiny a angliètiny text kapitoly "Data, informace, signál".
+3. Uložte do samostatného souboru PNG obrázek obsahující ukázku fiktivní ISIC karty z téže kapitoly.
+  
