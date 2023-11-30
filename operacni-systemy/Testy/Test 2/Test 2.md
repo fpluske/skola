@@ -11,4 +11,4 @@
 4. nano /etc/ssh/sshd_config
    nano /etc/ssh/sshd_config.d/50-cloud~it.conf
 5. scp /home/student/Stažené/maturitni_protokol_pcs_1.docx 192.168.10.79:/home/student/
-6. 
+6. Hotovo
