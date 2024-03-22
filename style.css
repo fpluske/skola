@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    border-spacing: 0;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+thead {
+    background-color: rgb(238, 238, 238);
+    font-weight: bold;
+}
+
+tfoot {
+    background-color: rgb(238, 238, 238);
+    color: rgb(251, 32, 31);
+    font-weight: bold;
+}
+
+th, td {
+    padding: 10px;
+    text-align: centers;
+    border: 1px solid black;
+}
+
+.celkoveUdaje {
+    color: black;
+}
+
+.cisla {
+    text-align: end;
+}
+
+caption {
+    border
+}
